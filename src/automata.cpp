@@ -1,3 +1,5 @@
+#include "math.h"
+
 #include "automata.h"
 #include "util.h"
 

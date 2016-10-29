@@ -5,7 +5,6 @@
 #include "ste.h"
 #include "specialElement.h"
 #include "ANMLParser.h"
-#include "emulator.h"
 
 #include <iostream>
 #include <string>
